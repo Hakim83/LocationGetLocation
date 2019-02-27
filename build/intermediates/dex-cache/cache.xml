@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\LocationGetLocation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ab7e0f02af78341c53e82f67c025d5a0bf4055aa">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\LocationGetLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8859c7b7ffa3b73d3eb7f87d9deecb94b511610f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\LocationGetLocation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a5998a33abe1668a3afe079009a6731a3a4706c5">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\LocationGetLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3a2b292e6d544f9a17993c0866a54630c2ecd090\classes.dex" />
+    </item>
+
+</items>
